@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula Introdutória Back end Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil" : "node index.js Brazil",
+    "vazio" : "node index.js",
+    "buscaPorLetraB" : "node buscaPorLetra.js b",
+    "addPais" : "node addPais.js Brlandia BR"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/Heytordesouza/node-package-json-template.git"
+  },
+  "author": "Heytor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heytordesouza/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Heytordesouza/node-package-json-template#readme"
+}
